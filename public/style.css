@@ -1,0 +1,12 @@
+.completed{
+  text-decoration: line-through;
+}
+.margin-right-1 {
+  margin-right: 10px;
+}
+.margin-left-1 {
+  margin-left: 10px;
+}
+.links svg{
+    width: 20px;;
+}
